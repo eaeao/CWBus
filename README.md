@@ -34,16 +34,16 @@ The app lets you:
 ## Screenshots
 
 [<img src="readme/s1.png" align="center"
-width="180"
+width="160"
     hspace="10" vspace="10">](readme/s1.png)
 [<img src="readme/s2.png" align="center"
-width="180"
+width="160"
     hspace="10" vspace="10">](readme/s2.png)
 [<img src="readme/s3.png" align="center"
-width="180"
+width="160"
     hspace="10" vspace="10">](readme/s3.png)
 [<img src="readme/s4.png" align="center"
-width="180"
+width="160"
     hspace="10" vspace="10">](readme/s4.png)
 
 ## Contributing
