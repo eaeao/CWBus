@@ -48,7 +48,7 @@ width="160"
 
 ## Getting Started
 
-1. [Set up React Native.](https://facebook.github.io/react-native/docs/getting-started.html) Choose tab **Building Projects with Native Code**
+1. [Set up React Native.](https://facebook.github.io/react-native/docs/getting-started.html) Choose tab **React Native CLI Quickstart**
 2. `cd` into this project directory
 3. `npm install` or `yarn install`
 4. Run `react-native run-android` or `react-native run-ios`
