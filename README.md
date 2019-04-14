@@ -1,4 +1,4 @@
-<p align="center"><a href="https://newpipe.schabi.org"><img src="readme/ic_launcher.png" width="150"></a></p> 
+<p align="center"><a href="https://newpipe.schabi.org"><img src="readme/icon_border.png" width="150"></a></p> 
 <h2 align="center"><b>CWBus</b></h2>
 <h4 align="center">Bus Information Application for Cheorwon, Korea</h4>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.CWBus" target="_blank">
@@ -33,7 +33,7 @@ The app lets you:
 
 ## Screenshots
 
-[<img src="readme/s1.png" align="left"
+[<img src="readme/s1.png" align="center"
 width="180"
     hspace="10" vspace="10">](readme/s1.png)
 [<img src="readme/s2.png" align="center"
