@@ -1,8 +1,8 @@
 import React, {Component} from "react";
 import {AsyncStorage, BackHandler, Platform, StyleSheet, TouchableWithoutFeedback, View} from "react-native";
 import {inject, observer} from "mobx-react/native";
-import RNUxcam from 'react-native-ux-cam';
-import {UXCamAPIKey} from './api_key';
+// import RNUxcam from 'react-native-ux-cam'; // Android only
+// import {UXCamAPIKey} from './api_key'; // Android only
 import {isIphoneX} from './is-iphone-x';
 import Loading from "./components/loading/Loading"
 import Tabs from "./components/tabs/Tabs"
@@ -10,7 +10,7 @@ import Home from "./components/home/Home"
 import Route from "./components/route/Route"
 
 const views = [<Home />, <Route />];
-RNUxcam.startWithKey(UXCamAPIKey);
+// RNUxcam.startWithKey(UXCamAPIKey); // Android only
 
 @inject(["mainStore"])
 @observer
