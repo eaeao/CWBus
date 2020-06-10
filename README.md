@@ -1,7 +1,7 @@
 <p align="center"><a href="https://newpipe.schabi.org"><img src="readme/icon_border.png" width="150"></a></p> 
 <h2 align="center"><b>CWBus</b></h2>
 <h4 align="center">Bus Information Application for Cheorwon, Korea</h4>
-<p align="center" style="align-items: center; justify-content: center; display: flex;"><a href="https://play.google.com/store/apps/details?id=com.CWBus" target="_blank">
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.CWBus" target="_blank">
     <img alt="Get it on Google Play"
         height="75"
         src="readme/en_badge_web_generic.png" />
