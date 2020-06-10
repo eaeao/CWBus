@@ -4,12 +4,12 @@
 <p align="center" style="align-items: center; justify-content: center; display: flex;"><a href="https://play.google.com/store/apps/details?id=com.CWBus" target="_blank">
     <img alt="Get it on Google Play"
         height="75"
-        src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+        src="readme/en_badge_web_generic.png" />
 </a>  
 <a href="https://itunes.apple.com/us/app/id1459386682" target="_blank">
     <img alt="Download on the App Store"
         height="50"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/270px-Download_on_the_App_Store_Badge.svg.png" />
+        src="readme/270px-Download_on_the_App_Store_Badge.svg.png" />
         </a></p> 
 
 ## About
