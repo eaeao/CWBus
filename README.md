@@ -3,7 +3,7 @@
 <h4 align="center">Bus Information Application for Cheorwon, Korea</h4>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.CWBus" target="_blank">
     <img alt="Get it on Google Play"
-        height="75"
+        height="50"
         src="readme/en_badge_web_generic.png" />
 </a>  
 <a href="https://itunes.apple.com/us/app/id1459386682" target="_blank">
